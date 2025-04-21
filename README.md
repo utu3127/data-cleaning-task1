@@ -1,20 +1,18 @@
 # data-cleaning-task1
-# 🧼 Data Cleaning Task
+# 🧽 Data Cleaning Task
 
 ## Overview
-This task involved cleaning a raw dataset using Excel. The goal was to handle missing values, remove duplicates, standardize formats, and prepare the data for analysis.
+Cleaned a raw dataset using Excel by handling basic formatting and quality checks.
+
+## Tasks Done
+- Converted date formats to a consistent style
+- Used "Text to Columns" for better structure
+- Checked and handled blank values
+- Removed duplicate rows (if any)
 
 ## Files
 - `raw_data.csv` – Original dataset
-- `cleaned_data.csv` – Final cleaned dataset
-
-## Cleaning Performed
-- Removed duplicates
-- Filled or handled missing values
-- Standardized text entries
-- Fixed date formats
-- Renamed columns
+- `cleaned_data.csv` – Cleaned version
 
 ## Tool Used
 - Microsoft Excel
-
